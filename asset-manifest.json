@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nhl_first_round_draft_picks/static/css/main.2cce8147.chunk.css",
+    "main.js": "/nhl_first_round_draft_picks/static/js/main.53344a8b.chunk.js",
+    "main.js.map": "/nhl_first_round_draft_picks/static/js/main.53344a8b.chunk.js.map",
+    "runtime~main.js": "/nhl_first_round_draft_picks/static/js/runtime~main.30407868.js",
+    "runtime~main.js.map": "/nhl_first_round_draft_picks/static/js/runtime~main.30407868.js.map",
+    "static/js/2.b41502e9.chunk.js": "/nhl_first_round_draft_picks/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/nhl_first_round_draft_picks/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/nhl_first_round_draft_picks/index.html",
+    "precache-manifest.de3bd9b095bcedaad3e85157ed420678.js": "/nhl_first_round_draft_picks/precache-manifest.de3bd9b095bcedaad3e85157ed420678.js",
+    "service-worker.js": "/nhl_first_round_draft_picks/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/nhl_first_round_draft_picks/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/nhl_first_round_draft_picks/static/media/logo.5d5d9eef.svg"
+  }
+}
