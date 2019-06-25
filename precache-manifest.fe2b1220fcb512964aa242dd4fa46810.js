@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec8ba440a7a7bf5aeeb1cb1ed81a01ea",
+    "revision": "522dcfb21744d34217c5bf895c8154e0",
     "url": "/nhl_first_round_draft_picks/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nhl_first_round_draft_picks/static/css/2.3c9eccb8.chunk.css"
   },
   {
-    "revision": "1d7d79d700e2f2085463",
+    "revision": "7311830cca54ee616355",
     "url": "/nhl_first_round_draft_picks/static/css/main.afe20546.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nhl_first_round_draft_picks/static/js/2.5726655a.chunk.js"
   },
   {
-    "revision": "1d7d79d700e2f2085463",
-    "url": "/nhl_first_round_draft_picks/static/js/main.f016793c.chunk.js"
+    "revision": "7311830cca54ee616355",
+    "url": "/nhl_first_round_draft_picks/static/js/main.8b04c5a4.chunk.js"
   },
   {
     "revision": "29696645e8845c8d0ee0",
