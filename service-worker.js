@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nhl_first_round_draft_picks/precache-manifest.de3bd9b095bcedaad3e85157ed420678.js"
+  "/nhl_first_round_draft_picks/precache-manifest.119c18b9e09d9264948cb02085b17ebd.js"
 );
 
 self.addEventListener('message', (event) => {
