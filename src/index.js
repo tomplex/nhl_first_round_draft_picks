@@ -1,9 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import BasicMap from './App';
 import * as serviceWorker from './serviceWorker';
 
+
+import 'leaflet/dist/leaflet.css';
+import './index.css';
 
 
 ReactDOM.render(<BasicMap/>, document.getElementById('root'));
